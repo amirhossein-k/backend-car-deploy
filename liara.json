@@ -1,0 +1,9 @@
+{
+    "platform": "node",
+    "app": "nodejs-starter",
+    "port": 3000,
+    "node": {
+      "version": "18"
+
+    }
+  }
